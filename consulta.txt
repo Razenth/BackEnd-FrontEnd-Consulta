@@ -1,0 +1,326 @@
+1. ¿Qué es la programación? 
+
+La programación informática es el arte del proceso por el cual se limpia, codifica, traza y protege el código fuente de programas computacionales, en otras palabras, es indicarle a la computadora lo que tiene que hacer. 
+
+2. ¿Qué es el desarrollo web?
+
+Desarrollo web es un término que define la creación de sitios web para Internet o una intranet. Para conseguirlo se hace uso de tecnologías de software del lado del servidor y del cliente que involucran una combinación de procesos de base de datos con el uso de un navegador web a fin de realizar determinadas tareas o mostrar información.
+
+3. ¿Qué debe aprender un programador? 
+
+Saber programar. 
+Leer documentación.
+Preguntar y buscar. 
+Hacerse entender. 
+Hacer tests. 
+Disfrutar, curiosear y saber qué programar. 
+Lectura y comprensión rápida. 
+Conocer varios lenguajes de programación.
+
+
+
+4. ¿Qué trabajos realiza un programador? 
+
+Mayormente un programador se deberá encargar de escribir, de depurar y de revisar todo el código fuente de un software informático para que lleve a cabo determinadas tareas.
+Al igual que de resolver problemas de forma eficiente y con lógica.
+
+5. ¿Qué es una roadmap en desarrollo? 
+
+La expresión roadmap se utiliza para dar a conocer el camino, rama o dirección por medio del cual vamos a llegar del estado actual al estado futuro.
+Osea, la secuencia de actividades o camino de evolución que nos llevará al estado futuro. En este caso en desarrollo hablamos de la rama ya sea Frontend, BackEnd o FullStack.
+
+6. ¿Qué debe aprender un desarrollador web? 
+
+Principalmente pienso que un desarrollador web debe aprender a:
+
+Utilizar el código para crear sitios web y prototipos
+Diseñar un diseño visualmente atractivo para un sitio web (ya sea desde cero o con la ayuda de un diseñador web)
+Mantener los sitios web activos limpiando el código y depurando los errores
+Crear una base de datos con SQL
+Trabajar con los clientes para decidir el alcance del proyecto y determinar los detalles de las características y el diseño del sitio web
+
+
+7. ¿Qué trabajos realiza un desarrollador web?
+
+Un desarrollador web crea sitios web utilizando varios lenguajes de programación. 
+Sus responsabilidades incluyen el diseño de páginas web y el desarrollo de la funcionalidad del sitio para satisfacer las necesidades de los usuarios.
+
+
+A veces, una vez terminado el proyecto, un programador web puede encargarse de mantener el rendimiento del sitio web, realizar actualizaciones y comprobar si hay problemas técnicos.
+
+8. ¿Qué es FRONTEND? 
+
+El Frontend sería el área Web que trabaja con el diseño, visualización y dinamismo del usuario, a través del lado del cliente o navegador.
+ Mejor dicho, todo lo que el usuario puede ver e interactuar en un sitio o aplicación.
+
+9. ¿Qué es BACKEND 
+
+El Backend en este caso es lo contrario de Frontend, ya que el Backend se encarga del manejo de la lógica que existe detrás de una petición dada por el navegador hacia el servidor.
+En mejores palabras, lo que realiza el backend es el pilar para lo que ya luego trabajan los Frontend.
+
+
+10.¿Qué es el nivel Junior en desarrollo? 
+
+En el mercado laboral actual, un nivel Junior en el desarrollo o programación es la persona que lleva al menos 2 años de experiencia en el ámbito de programación.
+
+11.¿Qué es el nivel Senior en desarrollo? 
+
+A comparación del nivel Junior hay una gran diferencia de experiencia con el nivel Senior, ya que para ser considerado un nivel Senior debe tener al menos 10 años de experiencia.
+
+
+
+
+
+
+12.¿Qué es el lenguaje HTML? 
+
+HTML no es un lenguaje de programación; es un lenguaje de marcado que define la estructura de tu contenido. 
+HTML consiste en una serie de elementos que usarás para encerrar diferentes partes del contenido para que se vean o comporten de una determinada manera. Las etiquetas de encierre pueden hacer de una palabra o una imagen un hipervínculo a otro sitio, se pueden cambiar palabras en cursiva, agrandar o achicar la letra, etc.
+
+13.¿Qué es el lenguaje CSS? 
+
+CSS son las siglas en inglés para “hojas de estilo en cascada” (Cascading Style Sheets). 
+Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas.
+
+14.¿Qué es SASS? 
+
+Sass es un procesador CSS. Un preprocesador CSS es una herramienta que nos permite generar, de manera automática, hojas de estilo, añadiéndoles características que no tiene CSS, y que son propias de los lenguajes de programación, como pueden ser variables, funciones, selectores anidados, herencia, etcétera.
+Estas características de los procesadores nos permiten, además, que el CSS que se genera sea más fácil de mantener y más reutilizable.
+
+15.¿Qué es BEM? 
+
+BEM CSS es una metodología de nomenclatura para definir las clases en los nodos HTML del documento.
+Es decir, es una manera de nombrar las clases de los nodos de tu HTML para posteriormente atacarlos con CSS de una manera fácil, sencilla y clara.
+El objetivo de BEM es dar mucha más transparencia y claridad en tu estructura HTML y CSS.
+
+BEM te dice cómo se relacionan las clases entre sí, lo que es particularmente útil en secciones complejas del documento.
+
+16.¿Qué es el lenguaje JavaScript? 
+
+JavaScript es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas. Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de JavaScript pueden mejorar la experiencia del usuario de un sitio web.
+
+17.¿Qué es el lenguaje TypeScript? 
+
+TypeScript (TS) es un lenguaje de programación construido a un nivel superior de JavaScript (JS). Esto quiere decir que TypeScript dota al lenguaje de varias características adicionales que hacen que podamos escribir código con menos errores, más sencillo, coherente y fácil de probar, en definitiva, más limpio y sólido.
+
+18.¿Qué es el lenguaje Python? 
+
+Python es un lenguaje de programación de propósito general que se ejecuta en casi todas las arquitecturas de sistemas y se puede utilizar para una amplia gama de aplicaciones en diferentes campos, desde el desarrollo web hasta el aprendizaje automático.
+
+19.¿Qué es el lenguaje PHP? 
+
+PHP es el acrónimo recursivo de Hypertext Preprocessor, un lenguaje de programación de código abierto muy utilizado especialmente en el desarrollo de aplicaciones y web, este lenguaje de código puede ser incrustado en HTML5 puesto que es un código muy variable favorece el enlace entre la interfaz de usuario y los servidores.
+
+20.¿Qué es el lenguaje Mysql? 
+
+MySQL es un sistema de gestión de base de datos (SGBD) de código abierto. El SGBD MySQL pertenece actualmente a Oracle. Funciona con un modelo cliente-servidor. Eso quiere decir que los ordenadores que instalan y ejecutan el software de gestión de base de datos se denominan clientes. Cada vez que necesitan acceder a los datos, los clientes se conectan al servidor del sistema de gestión de base de datos y le solicitan la información que necesitan. El servidor se la brinda siempre y cuando tenga los derechos de acceso.
+
+21.¿Qué es una Base de Datos? 
+
+Una base de datos es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. Normalmente, una base de datos está controlada por un sistema de gestión de bases de datos (DBMS). En conjunto, los datos y el DBMS, junto con las aplicaciones asociadas a ellos, reciben el nombre de sistema de bases de datos, abreviado normalmente a simplemente base de datos.
+
+22.¿Qué es NoSQL? 
+
+Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos y tienen esquemas flexibles para crear aplicaciones modernas. Las bases de datos NoSQL son ampliamente reconocidas porque son fáciles de desarrollar, por su funcionalidad y el rendimiento a escala. Esta página incluye recursos que lo ayudan a comprender mejor las bases de datos NoSQL y comenzar a usarlas.
+
+23.¿Qué es el lenguaje JAVA? 
+
+Java es un lenguaje de programación ampliamente utilizado para codificar aplicaciones web. Ha sido una opción popular entre los desarrolladores durante más de dos décadas, con millones de aplicaciones Java en uso en la actualidad. Java es un lenguaje multiplataforma, orientado a objetos y centrado en la red que se puede utilizar como una plataforma en sí mismo. Es un lenguaje de programación rápido, seguro y confiable para codificarlo todo, desde aplicaciones móviles y software empresarial hasta aplicaciones de macrodatos y tecnologías del servidor.
+
+
+24.¿Qué es un framework?
+ 
+Un framework es un marco o esquema de trabajo generalmente utilizado por programadores para realizar el desarrollo de software. Utilizar un framework permite agilizar los procesos de desarrollo ya que evita tener que escribir código de forma repetitiva, asegura unas buenas prácticas y la consistencia del código.
+
+25.¿Qué es una librería? 
+
+Las librerías de programación son conjuntos de archivos de código que se utilizan para desarrollar software. Su objetivo es facilitar la programación, al proporcionar funcionalidades comunes, que ya han sido resueltas previamente por otros programadores.
+
+26.¿Qué es BootStrap? 
+
+Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios web y aplicaciones web.
+
+27.¿Qué es Tailwind? 
+
+Tailwind CSS es un framework de CSS de código abierto​ para el diseño de páginas web. La principal característica de esta biblioteca es que, a diferencia de otras como Bootstrap, no genera una serie de clases predefinidas para elementos como botones o tablas.
+
+28.¿Qué es Laravel?
+
+Si has llegado a este artículo podría ser porque te interesa PHP y eres programador o no tienes nada que ver con el mundo de la programación aún, pero te atrae o interesa, estas son mis interpretaciones y tú tendrás la tuya propia, así que hay que empezar desde el inicio, por básico que parezca para poner en contexto a Laravel y todas sus posibilidades.
+ 
+
+
+29.¿Qué es NodeJS? 
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
+
+30.¿Qué es VUE.JS
+
+Vue es un framework progresivo para construir interfaces de usuario. A diferencia de otros frameworks monolíticos, Vue está diseñado desde cero para ser utilizado incrementalmente. La librería central está enfocada solo en la capa de visualización, y es fácil de utilizar e integrar con otras librerías o proyectos existentes. Por otro lado, Vue también es perfectamente capaz de impulsar sofisticadas Single-Page Applications cuando se utiliza en combinación con herramientas modernas y librerías de apoyo.
+
+31.¿Qué es REACT? 
+
+React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.
+
+32.¿Qué es ANGULAR? 
+
+Angular es un framework de ingeniería de software de código abierto mantenido por Google, que sirve para desarrollar aplicaciones web de estilo Single Page Application (SPA) y Progressive Web App (PWA). Sirve tanto para versiones móviles como de escritorio. 
+
+33.¿Qué es una API? 
+
+Un Application Programming Interface (Interfaz de programación de aplicaciones), abreviado como API es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción.
+
+En pocas palabras es un atajo para hacernos a todos más fácil la programación. Se podría decir que es una función declarada que es usada por todos y no es necesario que cada vez que se ocupe se reescriba por todos los programadores. Es más simple que todos ocupemos la misma API pues de cierto modo es más eficiente.
+
+34.¿Cuánto tiempo tarda una persona en aprender un lenguaje de  programación? 
+
+Esto dependerá mucho de la comprensión y de la capacidad de aprender de manera rápida algun tema nuevo, pero generalmente tendrás entre 6 y 12 meses obtener una comprensión firme de un par de lenguajes de programación
+
+35.¿Qué es un STACK en desarrollo? 
+
+Los stacks son paquetes de software que comprenden el back-end de un sitio, incluyendo el sistema operativo, los servidores web, las API, los marcos de programación, etc.
+
+Al poder agruparse todos estos componentes, se vuelven más fáciles de descargar e implementar simultáneamente. Los componentes de un stack pueden variar desde generales, por ejemplo, el sistema operativo Mac OS X, hasta muy específicos, como un marco PHP en particular.
+
+36.¿Qué es un desarrollador FULLSTACK? 
+
+Full Stack es un término utilizado para describir a los desarrolladores que conocen tanto los lenguajes de frontend como de backend. Principalmente, el desarrollo full stack se refiere al uso de JavaScript en el backend y de HTML/CSS/JavaScript en el frontend para crear nuevas plataformas.
+
+37.¿Qué es un paradigma de programación? 
+
+Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función de sus características. Los idiomas se pueden clasificar en múltiples paradigmas.
+
+38.¿Cuáles son los lenguajes de programación más demandados en el  mercado Colombiano? 
+
+1. Scala
+El lenguaje de programación con mayor salario en Colombia es Scala, con una remuneración de $10,995,971 pesos colombianos (COP) mensuales y libres de impuestos. Esto equivale a $2,566 dólares estadounidenses aproximadamente.
+
+
+
+2 .Swift
+El lenguaje de programación Swift tiene un salario promedio de $9,321,709 pesos colombianos, lo que equivale a $2,175 dólares
+
+3.Kotlin
+El tercer lenguaje de programación mejor pagado en Colombia 2022 es Kotlin, con una remuneración promedio de $8,204,469 pesos colombianos. Esta cantidad corresponde aproximadamente a $1,914 dólares estadounidenses libres de impuestos.
+
+
+4. Go
+El cuarto lenguaje de programación mejor pagado en Colombia es Go (Golang), cuyo salario promedio es de $7,410,075 pesos colombianos mensuales y libres de impuestos. Esta cantidad es el equivalente a $1,729 dólares estadounidenses.
+
+5.Ruby
+Ruby se posiciona en el quinto lugar de los lenguajes de programación mejor remunerados en Colombia con $6,501,681 pesos colombianos, que en dólares estadounidenses equivalen a $1,517 aproximadamente.
+
+
+39.¿Cuáles son los lenguajes de programación más demandados en el  mercado Internacional?
+
+Estos son los 10 lenguajes de programación más buscados y el número de veces que aparece en las descripciones de los clasificados nivel internacional:
+
+Python (70.497)
+SQL (69.033)
+Java (59.369)
+R (55.978)
+Visual Basic (54.253)
+JavaScript (49.724)
+C++ (35.034)
+C# (27.525)
+Objective C (25.082)
+Ruby (13.279
+ 
+
+
+40.¿Cuánto puede ganar un desarrollador FrontEnd? 
+
+El salario desarrollador front end promedio en Colombia es de $48.000.000 al año o $21.978 por hora. Los cargos de nivel inicial comienzan con un ingreso de $27.000.006 al año, mientras que profesionales más experimentados perciben hasta $68.160.000 al año.
+
+41.¿Cuánto puede ganar un desarrollador BackEnd? 
+
+El salario desarrollador backend promedio en Colombia es de $52.800.000 al año o $24.176 por hora. Los cargos de nivel inicial comienzan con un ingreso de $36.000.000 al año, mientras que profesionales más experimentados perciben hasta $78.900.000 al año.
+
+
+42.¿Cuáles son los requisitos para ser desarrollador FrontEnd? 
+
+Todos los desarrolladores frontend deben tener conocimientos de HTML, CSS y JavaScript. Esos tres lenguajes son la base de casi todo lo que harás. También necesitarás otras habilidades, pero el mismo conjunto de habilidades requerido variará de un trabajo a otro.
+
+43.¿Cuáles son los requisitos para ser desarrollador BackEnd? 
+
+Un profesional Back End debe tener conocimientos en lenguajes de programación tales como JavaScript / TypeScript, Java, C#, PHP, Node. js, Python y Ruby. Además, el Back End Developer se encarga de la implementación en gestores de bases de datos, por lo que deberá dominar MySQL, Postgres, SQL Server y MongoDB
+
+44.¿Qué es el control de versiones? 
+
+Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
+
+45.¿Qué es GIT?
+
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+46.¿Qué es GITHUB?
+
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
+
+47.¿Qué es una rama de desarrollo? 
+
+En general, una rama de desarrollo (“Git Branch”) es una bifurcación del estado del código que crea un nuevo camino para la evolución del mismo. Puede ir en paralelo a otras Git Branch que se pueden generar. Como podrás ver, hace posible incorporar nuevas funcionalidades al código de manera ordenada y precisa.
+
+48.¿Cuáles son las ramas del desarrollo? 
+
+Las funciones principales de los comandos git branch consisten en crear, enumerar y eliminar ramas, así como en cambiarles el nombre. Para trabajar con las ramas resultantes, el comando se suele usar con otros distintos, como git checkout. Obtén más información sobre las operaciones de rama de git checkout, como cambiar o fusionar ramas, en la página de git checkout.
+
+49.¿Qué es NPM? 
+
+npm es el sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScript, bajo Artistic License 2.0.
+
+50.¿Qué es Webpack? 
+
+Webpack es un empaquetador de módulos, es decir, te permite generar un archivo único con todos aquellos módulos que necesita tu aplicación para funcionar. Para darte una idea, te permite incluir todos tus archivos javascript .js en un único archivo, incluso se pueden incluir hasta archivos de estilos .css en el mismo archivo, llamado *.bundle.js. 
+
+51.¿Qué es Prettiers? 
+
+Prettier es una herramienta que se usa para dar formato a tu código, siendo una de las mejores opciones cuando quieres obtener un estilo de programación consistente tanto en el caso de que trabajes con un equipo como en el caso de que trabajes solo en un proyecto. Además, Prettier soporta una gran cantidad de lenguajes de programación, por lo que es una herramienta todo terreno.
+
+52.¿Qué es EsLint? 
+
+ESLint es una herramienta de análisis de código estático para identificar patrones problemáticos que se encuentran en el código JavaScript.
+
+53.¿Qué es MVC? 
+
+MVC o Modelo-vista-controlador es un patrón de arquitectura de software, que separa los datos y principalmente lo que es la lógica de negocio de una aplicación de su representación y el módulo encargado de gestionar los eventos y las comunicaciones.
+
+54.¿Qué es la metodología SCRUM? 
+
+Scrum es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.
+
+Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos.
+
+55.¿Qué es la metodología AGILE? 
+
+AGILE o  desarrollo ágil de software envuelve un enfoque para la toma de decisiones en los proyectos de software, que se refiere a métodos de ingeniería del software basados en el desarrollo iterativo e incremental, donde los requisitos y soluciones evolucionan con el tiempo según la necesidad del proyecto.
+
+
+
+
+56.¿Qué es TESTING? 
+EL TESTING o las pruebas de software son las investigaciones empíricas y técnicas cuyo objetivo es proporcionar información objetiva e independiente sobre la calidad del producto a la parte interesada o stakeholder. Es una actividad más en el proceso de control de calidad.
+
+57.¿Qué son los patrones de diseño? 
+
+Los patrones de diseño son unas técnicas para resolver problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces. Un patrón de diseño resulta ser una solución a un problema de diseño.
+
+58.¿Qué es el diseño UML? 
+
+El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento.
+
+59.¿Cuáles son los roles en el desarrollo de software? 
+
+Se necesitan muchos roles en el ciclo de vida del desarrollo de software, y el equipo ideal está formado por los siguientes roles:
+
+Dueño del producto
+Project manager
+Diseñadores UX y UI
+Analista comercial
+Desarrolladores de software
+Líder de equipo y de tecnología (o team lead y tech lead)
+Scrum master
+
+60.¿Cuál es el camino que deseas seguir? ¿Desarrollador FrontEnd o  Desarrollador BackEnd?
+
+BackEnd
